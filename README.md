@@ -9,8 +9,7 @@ Podobieństwo jest liczone na podstawie tekstu, czyli głównie nazwy przepisu, 
 
 ## Dataset
 
-Dane pochodzą z Kaggle: **Food.com Recipes with Ingredients and Tags**.
-
+Dane pochodzą z Kaggle.
 Zbiór danych zawierał początkowo:
 
 - 500471 przepisów,
