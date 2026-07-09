@@ -129,7 +129,7 @@ Dla przepisu:
 
 system zwrócił m.in.:
 
-| Rekomendowany przepis | Similarity score |
+| Rekomendowany przepis | Wynik podobieństwa |
 |---|---:|
 | Tofu Chocolate Pie | 0.5253 |
 | Chocolate Cream Pie from Gourmet.com | 0.4971 |
@@ -143,7 +143,7 @@ Dla przepisu:
 
 system zwrócił m.in.:
 
-| Rekomendowany przepis | Similarity score |
+| Rekomendowany przepis | Wynik podobieństwa |
 |---|---:|
 | Moist Banana Bread | 0.5494 |
 | Mels Basic Banana Bread | 0.5286 |
