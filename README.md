@@ -7,7 +7,7 @@ Projekt działa tak, że na podstawie wybranego przepisu system wyszukuje podobn
 Podobieństwo jest liczone na podstawie tekstu, czyli głównie nazwy przepisu, składników, opisu, instrukcji przygotowania oraz tagów.
 Łączy on analizę danych, podstawy NLP oraz system rekomendacji.
 
-## Dataset
+## Zbiór danych
 
 Dane pochodzą z Kaggle.
 Zbiór danych zawierał początkowo:
