@@ -94,5 +94,3 @@ if __name__ == "__main__":
     plt.xlabel("Count")
     plt.ylabel("Tag")
     save_plot("04_top_recipe_tags.png")
-
-    print("\nEDA completed. Plots saved in images folder.")
