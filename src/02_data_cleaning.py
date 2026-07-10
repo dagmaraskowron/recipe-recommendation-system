@@ -99,5 +99,3 @@ if __name__ == "__main__":
     print(clean_df[["name", "ingredients", "steps"]].head())
 
     clean_df.to_csv(CLEAN_DATA_PATH, index=False)
-
-    print(f"\nClean dataset saved to: {CLEAN_DATA_PATH}")
