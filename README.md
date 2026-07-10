@@ -9,7 +9,7 @@ Podobieństwo jest liczone na podstawie tekstu, czyli głównie nazwy przepisu, 
 
 ## Dane
 
-Dane pochodzą z Kaggle: **Food.com Recipes with Ingredients and Tags**.
+Dane pochodzą z Kaggle: **"Food.com Recipes with Ingredients and Tags"**.
 
 Zbiór danych zawierał początkowo:
 
