@@ -99,7 +99,7 @@ Ta kolumna była potem używana do liczenia podobieństwa między przepisami.
 
 ### 3. Eksploracyjna analiza danych
 
-W ramach EDA sprawdziłam długość tekstu składników, długość instrukcji przygotowania oraz najczęściej występujące tagi.
+Sprawdziłam długość tekstu składników, długość instrukcji przygotowania oraz najczęściej występujące tagi.
 
 ### Rozkład długości tekstu składników
 
