@@ -47,5 +47,3 @@ if __name__ == "__main__":
     if all_results:
         results_df = pd.concat(all_results, ignore_index=True)
         results_df.to_csv(RESULTS_PATH, index=False)
-
-        print(f"\nRecommendation examples saved to: {RESULTS_PATH}")
